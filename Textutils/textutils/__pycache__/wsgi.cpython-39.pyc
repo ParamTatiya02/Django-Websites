@@ -1,0 +1,13 @@
+a
+
+    çåÀ_›  ã                   @   s0   d Z ddlZddlmZ ej dd¡ eƒ ZdS )zÙ
+WSGI config for textutils project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEztextutils.settings)Ú__doc__ÚosÚdjango.core.wsgir   ÚenvironÚ
+setdefaultÚapplication© r
+   r
+   ú%E:\Django\textutils\textutils\wsgi.pyÚ<module>   s   	
